@@ -6,7 +6,7 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aknayani1865&label=Profile%20views&color=0e75b6&style=flat" alt="Tirth-2121" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tirth-2121&label=Profile%20views&color=0e75b6&style=flat" alt="Tirth-2121" /> </p>
 
 - 📫 How to reach me **tirthbhingradiya108@gmail.com**
 
